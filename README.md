@@ -22,7 +22,7 @@ Chris Gabriel III
 Rood
 
 #### Je focus:
-Responsive 
+Surface plane
  
 </details>
 
@@ -32,19 +32,18 @@ Responsive
 
 ## Je website
 
-<details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
+
 
 ### Je opdracht:
 https://www.krakenrum.com/cocktails/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/krakensmallscreen.png" width="375px" alt="omschrijving van de pagina">
+Kraken black rum home screen
+<img src="readimages/smallscreen.png">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Products page
+<img src="readimages/productssmallscreen.png">
  
 </details>
 
@@ -55,19 +54,18 @@ hier de naam van de pagina
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
+<summary>Deze week heb ik in de klas gewerkt aan de breakdownschets voor mijn pagina, mijn ervaring met coderen is echter nogal weinig dus weet ik nog niet tot hoeverre ik mij
+aan deze breakdownschets ga houden.</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="readimages/breakdownschets.jpg">
 
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+### Footer
+<img src="readimages/dynamicbreakdown.png">
 
 </details>
-
+Alhoewel ik heel veel content blokken op dezelfde manier kan indelen zouden de header en footer wel wat anders in elkaar gezet worden.
 
 
 
@@ -75,29 +73,12 @@ hier de naam van de pagina
 ## Voortgang 1 (week 2)
 
 <details>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>een aantal stukken gingen nogal lastig bij het maken van de eerste versie van de site, vooral de responsiveness was voor mij niet te doen.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+De look and feel van de site had ik wel snel te pakken, ook omdat de afbeeldingen op de site makkelijk te downloaden waren, de kleuren en fonts moest ik nog wel even voor zoeken.
 
 
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
 
 </details>
 
@@ -111,27 +92,11 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
+Robert heeft nog naar mijn site gekeken, hij merkte een paar dingen op:
+de header kan in een <header> tag geplaatst worden, de images hadden nog geen alt tags, een aantal typfouten waren gemaakt en ik had de JS tag nog niet onderaan,
+er moest ook nog wel aardig wat gedaan worden aangezien ik nog een beetje achter liep
+<img src="readimages/week2">
+<img src="readimages/week2code">
 </details>
 
 
@@ -141,33 +106,29 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>uitwerken na test in 8e voortgang</summary>
+<summary>we waren bezig met het testen van toegankelijkheid tijdens de offline les</summary>
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Screenreader
+De screenreader pakte goed mijn website op, alleen waren er soms afbeeldingen die nog niet duidelijke namen hadden.
+Dit kon makkelijk opgelost worden door de image een andere alt text te geven.
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### weinig zicht
+kwa leesbaarheid hield de site het best goed op, dat kwam ook omdat het contrast tussen de achtergrond en text vrij hoog staat.
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### zichtbrillen
+de enige bril die ervoor zorgte dat de site wat moeilijker te lezen werdt, was degene die witte tekst nogal wazig maakte, alleen
+was het alsnog wel te lezen.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+
+#### spiertrekkingen
+dit apparaat vond ik nogal amuserend, dus heb ik langer dan de brillen getest, op elke stand was de website nog aardig te gebruiken,
+alhoewel dit ook wel komt door het feit dat je voornamelijk omlaag aan het scrollen bent, het gebruiken van de hamburger menu is wel wat lastiger
+als je je hand niet stil kan houden.
 
 </details>
 
@@ -178,29 +139,17 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>uitwerken voor 3e voortgang</summary>
+<summary>realisatie</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Deze feedbackronde kwam ik terug met een hamburger menu die niet functioneerde en nog wat extra content blokken, veel had ik ook weer niet dat ik kon laten zien.
 
 
-### Agenda voor meeting
-samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+omdat er weinig nieuw was aan de site, kon Robert me ook niet veel feedback geven, hij had nog wel gedemonstreerd hoe de hamburger menu in de header kon.
 
 </details>
 
@@ -211,15 +160,21 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Eindgesprek (week 5)
 
 <details>
-<summary>uitwerken voor eindgesprek</summary>
+<summary>laatste push</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Voor de laatste sprint die ik moest nemen heb ik een aantal dagen flink de tijd genomen om mijn vorige fouten te verbeteren en de site op te vullen.
+zo heb ik gezorgt dat alle content blokken nu in de sections met flex gepositioneerd zijn ipv. position absolutes enz. Ook heb ik de hamburger menu een 
+werkende functie gegeven en de animatie nog een ease in en out gegeven (die ontbrak nog) tot slot heb ik de 2de pagina uitgewerkt en de footer toegevoegd.
+
+ik ben uiteindelijk vrij tevreden met mijn uitgewerkte site, ik heb ook mijzelf wel uitgedaagt met hoe weinig ervaring ik van coderen heb, om er toch iets
+volledigs van te maken.
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
-
+<img src="readimages/eind1.png">
+<img src="readimages/eind1.5.png">
+<img src="readimages/eind2.png">
 </details>
 
 
@@ -229,12 +184,13 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
+<summary>op basis van kennis, inspiratie en het origineel</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+
+1. https://youtu.be/dIyVTjJAkLw
+2. www.krakenrum.com
+3. www.krakenrum.com/products
+4. https://www.youtube.com/watch?v=LBI5Vowhwis
 
 </details>
