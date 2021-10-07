@@ -145,7 +145,7 @@ als je je hand niet stil kan houden.
 ### Stand van zaken
 Deze feedbackronde kwam ik terug met een hamburger menu die niet functioneerde en nog wat extra content blokken, veel had ik ook weer niet dat ik kon laten zien.
 
-<img src="week2.png">
+<img src="week3.png">
 
 
 
