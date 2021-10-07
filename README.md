@@ -95,8 +95,9 @@ De look and feel van de site had ik wel snel te pakken, ook omdat de afbeeldinge
 Robert heeft nog naar mijn site gekeken, hij merkte een paar dingen op:
 de header kan in een <header> tag geplaatst worden, de images hadden nog geen alt tags, een aantal typfouten waren gemaakt en ik had de JS tag nog niet onderaan,
 er moest ook nog wel aardig wat gedaan worden aangezien ik nog een beetje achter liep
-<img src="readimages/week2">
-<img src="readimages/week2code">
+<img src="readimages/week2.png">
+<img src="readimages/week2code.png">
+
 </details>
 
 
