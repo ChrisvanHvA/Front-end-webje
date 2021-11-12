@@ -859,9 +859,7 @@ ul.legal {
     text-align: center;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    max-width: 70em;
-    min-width: 10px;
+    align-content: center;
     margin-left: 0%;
     margin-right: 0%;
 
@@ -916,9 +914,9 @@ ul.legal>li>img {
 
 ul.legal img {
     z-index: -10;
-    position: relative;
-    margin-top: -20em;
+    margin-top:-30em;
     user-select: none;
+    width: 100%;
 
 }
 
