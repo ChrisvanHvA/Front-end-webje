@@ -194,12 +194,12 @@ section:first-of-type {
 
 
 section:first-of-type>img {
-
+   user-select: none;
     width: 120%;
 
-    position: relative;
+    position: inherit;
 
-    z-index: -2;
+    z-index: -11;
 
 }
 
